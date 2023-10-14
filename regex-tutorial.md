@@ -12,7 +12,7 @@ This line of code can be used in web development to validate if text follows the
 
 ## Table of Contents
 
-- [Anchors](#anchors)
+- [Introduction](#introduction)
 - [Email Format](#email-format)
 - [Local Part](#local-part)
 - [Domain](#domain)
@@ -21,23 +21,19 @@ This line of code can be used in web development to validate if text follows the
 - [Code Example](#code-example)
 - [Conlusion](#conclusion)
 
-## Regex Components
+## Email Format
 
-### Anchors
+### Local Part
 
-### Quantifiers
+### Domain
 
-### Grouping Constructs
+### Top-Level Domain
 
-### Bracket Expressions
+### Regex Pattern
 
-### Character Classes
+### Code Example
 
-### The OR Operator
-
-### Flags
-
-### Character Escapes
+### Conlusion
 
 ## Author
 

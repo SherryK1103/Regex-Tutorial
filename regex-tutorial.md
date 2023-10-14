@@ -49,6 +49,18 @@ The email pattern rules ensure that an email address has a distinguishable arran
 
 ### Top-Level Domain
 
+the Top-Level Domain, frequently called TLD, is the last part of a domain name, found after the last dot in a website address or email. It serves as an identifier of the domain's category. TLDs have an important role in classifying and organizing web addresses and email addresses online.
+
+Common TLDs:
+
+- .com
+- .org
+- .net
+- .gov
+- .edu
+
+The TLD is essential in helping users and computers immediately understand the purpose and origin of a domain. For example, when you see a website ending in ".edu" that will tell you that it's a website for an educational instutition. This system streamlines the management and categorization of both web and email addresses online.
+
 ### Regex Pattern
 
 ### Code Example

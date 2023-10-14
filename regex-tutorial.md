@@ -13,13 +13,13 @@ This line of code can be used in web development to validate if text follows the
 ## Table of Contents
 
 - [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
-- [Grouping Constructs](#grouping-constructs)
-- [Bracket Expressions](#bracket-expressions)
-- [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
-- [Character Escapes](#character-escapes)
+- [Email Format](#email-format)
+- [Local Part](#local-part)
+- [Domain](#domain)
+- [Top-Level Domain](#top-level-domain)
+- [Regex Pattern](#regex-pattern)
+- [Code Example](#code-example)
+- [Conlusion](#conclusion)
 
 ## Regex Components
 

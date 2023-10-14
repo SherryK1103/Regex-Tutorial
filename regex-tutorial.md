@@ -4,7 +4,11 @@ Regex, short for Regular Expression, is a special tool used in programming and t
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This guide will dive into the Regular Expresion that is used for matching emails. This Regex is used to validate whether or not the provided text represents a valid email address. It verifies that the email has the correct format such as the 'local part': the part before the @ symbol, the domain after the @ symbol, and the top domain such as .com or .org. This enforces specific rules for each part, including the characters permitted.
+
+Here is the code snippet: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
+
+This line of code can be used in web development to validate if text follows the pattern of an email address.
 
 ## Table of Contents
 

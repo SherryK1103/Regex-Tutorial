@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Title Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Regex, short for Regular Expression, is a special tool used in programming and text processing. It is a compilation of elements that allows you to search, match, and manipulate text based on specific patterns. Using Regex, you can validate and verify various pieces of information like email addresses, phone numbers, and websites are correct. In this guide we will go into further detail about the basic building bloxks of regular expressions and how they work to create patterns.
 
 ## Summary
 

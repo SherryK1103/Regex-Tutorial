@@ -1,4 +1,4 @@
-# Title Regex Tutorial
+# Regex Tutorial
 
 Regex, short for Regular Expression, is a special tool used in programming and text processing. It is a compilation of elements that allows you to search, match, and manipulate text based on specific patterns. Using Regex, you can validate and verify various pieces of information like email addresses, phone numbers, and websites are correct. In this guide we will go into further detail about the basic building bloxks of regular expressions and how they work to create patterns.
 
@@ -63,7 +63,26 @@ The TLD is essential in helping users and computers immediately understand the p
 
 ### Regex Pattern
 
+A regex is a grouping of characters that defines a specific search pattern that acts as a code for finding and manipulating text. Each element in a regex format has a unique role within the pattern.
+
 ### Code Example
+
+JavaScript code to validate an email using a regular expression
+
+Regular expression pattern for validating an email address
+const emailRegex = /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/;
+
+Function to validate an email address
+function validateEmail(email) {
+return emailRegex.test(email);
+}
+
+Example usage
+const email1 = "jane.doe@sample.com";
+const email2 = "invalid-email";
+
+console.log(`Email 1 is valid: ${validateEmail(email1)}`); Should return true
+console.log(`Email 2 is valid: ${validateEmail(email2)}`); Should return false
 
 ### Conlusion
 
